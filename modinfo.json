@@ -1,0 +1,10 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "stackify",
+    "name": "Stackify",
+    "authors": [ "Maddremor" ],
+    "description": "Makes some items into stacks with charges. If this breaks and your items dissappear at some point in the future it's your problem.",
+    "dependencies": [ "dda" ]
+  }
+]

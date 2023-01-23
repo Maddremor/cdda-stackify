@@ -1,0 +1,902 @@
+[
+  {
+    "id": "splinter",
+    "copy-from": "splinter",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "grass_yarn",
+    "copy-from": "grass_yarn",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_cotton",
+    "copy-from": "scrap_cotton",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_faux_fur",
+    "copy-from": "scrap_faux_fur",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_felt",
+    "copy-from": "scrap_felt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_fur",
+    "copy-from": "scrap_fur",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_kevlar",
+    "copy-from": "scrap_kevlar",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_leather",
+    "copy-from": "scrap_leather",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_lycra",
+    "copy-from": "scrap_lycra",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_neoprene",
+    "copy-from": "scrap_neoprene",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_nylon",
+    "copy-from": "scrap_nylon",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_nomex",
+    "copy-from": "scrap_nomex",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "fur",
+    "copy-from": "fur",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "faux_fur",
+    "copy-from": "faux_fur",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "leather",
+    "copy-from": "leather",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "felt_patch",
+    "copy-from": "felt_patch",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "nomex",
+    "copy-from": "nomex",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cured_hide",
+    "copy-from": "cured_hide",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tanned_hide",
+    "copy-from": "tanned_hide",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_leather_patchwork",
+    "copy-from": "sheet_leather_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cured_pelt",
+    "copy-from": "cured_pelt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tanned_pelt",
+    "copy-from": "tanned_pelt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_fur_patchwork",
+    "copy-from": "sheet_fur_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_cotton",
+    "copy-from": "sheet_cotton",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_cotton_patchwork",
+    "copy-from": "sheet_cotton_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_faux_fur",
+    "copy-from": "sheet_faux_fur",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_faux_fur_patchwork",
+    "copy-from": "sheet_faux_fur_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_felt",
+    "copy-from": "sheet_felt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_felt_patchwork",
+    "copy-from": "sheet_felt_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_kevlar",
+    "copy-from": "sheet_kevlar",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_lycra",
+    "copy-from": "sheet_lycra",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_lycra_patchwork",
+    "copy-from": "sheet_lycra_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_neoprene",
+    "copy-from": "sheet_neoprene",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_neoprene_patchwork",
+    "copy-from": "sheet_neoprene_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_nomex",
+    "copy-from": "sheet_nomex",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_nomex_patchwork",
+    "copy-from": "sheet_nomex_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_nylon_patchwork",
+    "copy-from": "sheet_nylon_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_canvas",
+    "copy-from": "sheet_canvas",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_canvas",
+    "copy-from": "scrap_canvas",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "canvas_patch",
+    "copy-from": "canvas_patch",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sheet_canvas_patchwork",
+    "copy-from": "sheet_canvas_patchwork",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "material_aluminium_ingot",
+    "copy-from": "material_aluminium_ingot",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_copper",
+    "copy-from": "scrap_copper",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_tin",
+    "copy-from": "scrap_tin",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "scrap_aluminum",
+    "copy-from": "scrap_aluminum",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "thermo_resin_chunk",
+    "copy-from": "thermo_resin_chunk",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "epoxy_chunk",
+    "copy-from": "epoxy_chunk",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "plastic_chunk",
+    "copy-from": "plastic_chunk",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "nylon",
+    "copy-from": "nylon",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lycra_patch",
+    "copy-from": "lycra_patch",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "plastic_sheet_small",
+    "copy-from": "plastic_sheet_small",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "ceramic_shard",
+    "copy-from": "ceramic_shard",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sharp_rock",
+    "copy-from": "sharp_rock",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "rubber_tire_chunk",
+    "copy-from": "rubber_tire_chunk",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "material_shrd_limestone",
+    "copy-from": "material_shrd_limestone",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "material_rocksalt",
+    "copy-from": "material_rocksalt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "material_rhodonite",
+    "copy-from": "material_rhodonite",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "material_zincite",
+    "copy-from": "material_zincite",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cobalt_60",
+    "copy-from": "cobalt_60",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "breadboard",
+    "copy-from": "breadboard",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cottonwood_tree_boll",
+    "copy-from": "cottonwood_tree_boll",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "file",
+    "copy-from": "file",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "fp_loyalty_card",
+    "copy-from": "fp_loyalty_card",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "twig",
+    "copy-from": "twig",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "leaves",
+    "copy-from": "leaves",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "withered",
+    "copy-from": "withered",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "superglue",
+    "copy-from": "superglue",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "rubber_cement",
+    "copy-from": "rubber_cement",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "bone_glue",
+    "copy-from": "bone_glue",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "chitin_piece",
+    "copy-from": "chitin_piece",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "endochitin",
+    "copy-from": "endochitin",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "acidchitin_piece",
+    "copy-from": "acidchitin_piece",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "biollante_bud",
+    "copy-from": "biollante_bud",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tree_spile",
+    "copy-from": "tree_spile",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "wire",
+    "copy-from": "wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lc_wire",
+    "copy-from": "lc_wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "mc_wire",
+    "copy-from": "mc_wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "hc_wire",
+    "copy-from": "hc_wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "ch_wire",
+    "copy-from": "ch_wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "qt_wire",
+    "copy-from": "qt_wire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "concrete",
+    "copy-from": "concrete",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "skewer_bone",
+    "copy-from": "skewer_bone",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "element",
+    "copy-from": "element",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "crude_heating_element",
+    "copy-from": "crude_heating_element",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "thermostat",
+    "copy-from": "thermostat",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "pilot_light",
+    "copy-from": "pilot_light",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "delay_fuze",
+    "copy-from": "delay_fuze",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "impact_fuze",
+    "copy-from": "impact_fuze",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "processor",
+    "copy-from": "processor",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "RAM",
+    "copy-from": "RAM",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "power_supply",
+    "copy-from": "power_supply",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "amplifier",
+    "copy-from": "amplifier",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "transponder",
+    "copy-from": "transponder",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "receiver",
+    "copy-from": "receiver",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "small_lcd_screen",
+    "copy-from": "small_lcd_screen",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lens",
+    "copy-from": "lens",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lens_small",
+    "copy-from": "lens_small",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "antenna",
+    "copy-from": "antenna",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "circuit",
+    "copy-from": "circuit",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "e_scrap",
+    "copy-from": "e_scrap",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "clockworks",
+    "copy-from": "clockworks",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "pine_bough",
+    "copy-from": "pine_bough",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "pinecone",
+    "copy-from": "pinecone",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "poppy_bud",
+    "copy-from": "poppy_bud",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "chamomile",
+    "copy-from": "chamomile",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lotus",
+    "copy-from": "lotus",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "spurge",
+    "copy-from": "spurge",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "dog_tag",
+    "copy-from": "dog_tag",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "dog_tag_dog",
+    "copy-from": "dog_tag_dog",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "clay_lump",
+    "copy-from": "clay_lump",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "brick",
+    "copy-from": "brick",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "mortar_build",
+    "copy-from": "mortar_build",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "mortar_lime",
+    "copy-from": "mortar_lime",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "soft_adobe_brick",
+    "copy-from": "soft_adobe_brick",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "adobe_brick",
+    "copy-from": "adobe_brick",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "mortar_adobe",
+    "copy-from": "mortar_adobe",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tanbark",
+    "copy-from": "tanbark",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "birchbark",
+    "copy-from": "birchbark",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "willowbark",
+    "copy-from": "willowbark",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "diamond",
+    "copy-from": "diamond",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "garnet",
+    "copy-from": "garnet",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "amethyst",
+    "copy-from": "amethyst",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "aquamarine",
+    "copy-from": "aquamarine",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "emerald",
+    "copy-from": "emerald",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "alexandrite",
+    "copy-from": "alexandrite",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "malachite",
+    "copy-from": "malachite",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "pearl",
+    "copy-from": "pearl",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "ruby",
+    "copy-from": "ruby",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "peridot",
+    "copy-from": "peridot",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "sapphire",
+    "copy-from": "sapphire",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "opal",
+    "copy-from": "opal",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tourmaline",
+    "copy-from": "tourmaline",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "citrine",
+    "copy-from": "citrine",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "blue_topaz",
+    "copy-from": "blue_topaz",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "onyx",
+    "copy-from": "onyx",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "straw_pile",
+    "copy-from": "straw_pile",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cigar_butt",
+    "copy-from": "cigar_butt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cig_butt",
+    "copy-from": "cig_butt",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "joint_roach",
+    "copy-from": "joint_roach",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "cannabis",
+    "copy-from": "cannabis",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "tobacco_raw",
+    "copy-from": "tobacco_raw",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "gasdiscount_silver",
+    "copy-from": "gasdiscount_silver",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "gasdiscount_gold",
+    "copy-from": "gasdiscount_gold",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "gasdiscount_platinum",
+    "copy-from": "gasdiscount_platinum",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "neoprene",
+    "copy-from": "neoprene",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "light_bulb",
+    "copy-from": "light_bulb",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "lock",
+    "copy-from": "lock",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "fire_brick",
+    "copy-from": "fire_brick",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "plastic_six_dice",
+    "copy-from": "plastic_six_dice",
+    "type": "GENERIC",
+    "stackable": true
+  },
+  {
+    "id": "alder_bark",
+    "copy-from": "alder_bark",
+    "type": "GENERIC",
+    "stackable": true
+  }
+]
